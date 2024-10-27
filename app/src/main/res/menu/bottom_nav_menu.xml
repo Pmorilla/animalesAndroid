@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/itemCerrarSesion"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_CerrarS" />
+
+    <item
+        android:id="@+id/switchModoOscuro"
+        android:title="@string/title_modo_oscuro"
+        app:actionViewClass="androidx.appcompat.widget.SwitchCompat"
+        android:checkable="true"
+        android:checked="false"/>
+
+</menu>

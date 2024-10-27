@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">L\'Abellugu</string>
+    <string name="inicio_sesion">INICIA SESION</string>
+    <string name="registro_usu">REGISTRATE</string>
+    <string name="title_activity_principal_animal">L\'Abellugu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_CerrarS">Cerrar Sesión</string>
+    <string name="title_salir">Salir</string>
+    <string name="title_modo_oscuro">Modo Oscuro</string>
+    <string name="inicioNombre">Nombre: " "</string>
+    <string name="inicioEmail">Email: " " </string>
+    <string name="inicioDireccion">Direción: " "</string>
+    <string name="inicioTituloP">Perfil de: " "</string>
+    <string name="inicioNombreAnimal">Nombre: " "</string>
+    <string name="inicioEspecie">Especie: " "</string>
+    <string name="inicioRaza">Raza: " "</string>
+</resources>
